@@ -1,0 +1,7 @@
+#!/bin/bash
+clear
+ps -aux|more
+read
+echo -e  "\33[37m Press Enter To return back to previous menu \33[0m"
+read
+/harshit/system/system
